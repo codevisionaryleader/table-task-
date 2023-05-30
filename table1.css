@@ -1,0 +1,17 @@
+table,th,td
+{
+    border: solid black;
+    border-collapse: collapse;
+    padding: 13px;
+    
+    
+    text-align: center;
+    color: brown;
+    background-color: beige;
+}
+
+p{
+    color: black;
+    text-align: center;
+    text-size-adjust: 100px;
+}
